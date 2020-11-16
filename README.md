@@ -73,3 +73,8 @@
 ### Watch Dogs
 - [X] Watch Dogs 1
 - [X] Watch Dogs 2
+
+### Zelda
+- [X] Zelda Phatom Hourglass
+- [X] Zelda Spirit Tracks
+
